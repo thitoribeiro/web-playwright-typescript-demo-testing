@@ -1,0 +1,23 @@
+{
+  "name": "web-playwright-typescript-demo-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thitoribeiro/web-playwright-typescript-demo-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thitoribeiro/web-playwright-typescript-demo-testing/issues"
+  },
+  "homepage": "https://github.com/thitoribeiro/web-playwright-typescript-demo-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18"
+  }
+}
